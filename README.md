@@ -15,12 +15,12 @@ A Backend(Nodejs) developer and DevOps(AWS) Engineer, specializing in system(web
 # 📊GitHub Stats :
 
 ![](https://github-readme-stats.vercel.app/api?username=albaba0010&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Hexdee&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hexdee&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=alibaba0010&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=alibaba0010&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=Hexdee&theme=nord&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=alibaba0010&theme=nord&no-frame=true&no-bg=true&margin-w=4)
 
 ### ✍️Random Dev Quote
 
