@@ -1,6 +1,6 @@
 # 💫About Me :
 
-A Backend(Nodejs) developer and DevOps(AWS) Engineer, specializing in system(web) architecture and related technologies.
+A Software Engineer with 3+ years of experience architecting and delivering high-impact solutions, specializing in building scalable applications that solve complex business challenges.
 
 ## 🌐Socials
 
